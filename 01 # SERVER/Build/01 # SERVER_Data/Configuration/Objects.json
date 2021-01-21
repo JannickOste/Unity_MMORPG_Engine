@@ -1,0 +1,6 @@
+{
+	"QUEST0_DOOR": {
+		"quest_id": 0,
+		"requiredQuestState": 1
+	}
+}

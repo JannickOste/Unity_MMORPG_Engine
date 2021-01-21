@@ -1,0 +1,17 @@
+{
+	"0": {
+		"model_name" : "Doors/Door_Iron_Left",
+		"position": {
+					"x":390.26,
+					"y":3.22,
+					"z":133.73
+		},
+		"rotation": {"x":-90,"y":0,"z":90,"w":0},
+        "scale":  {"x":300,"y":300,"z":300},
+		"requirements":		
+		{
+			"quest_id": 0,
+			"requiredQuestState": 1
+		}
+	}
+}

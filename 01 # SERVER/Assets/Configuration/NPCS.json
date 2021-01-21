@@ -1,0 +1,9 @@
+{
+	"0": {
+		"model_name": "Player",
+		"targetable": false,
+		"hitpoints": 100,
+		"position":{"x":200.42111206054688,"y":0.000004947185516357422,"z":151.15911865234376},
+		"action_id": 0
+	}
+}
