@@ -6,6 +6,13 @@
   <li>Features:
   <ul>
     <li>TCP/UDP network protocols</li>
-    <li>Quest system</li>
+    <li>HTTP login server</li>
+    <li>RSA Encryption</li>
+    <li>Custom unity reflector</li>
+    <li>Enity based</li>
+    <li>Quest and quest required passage system</li>
+    <li>Entity spawing using JSON</li>
+    <li>UI System</li>
+    <li>Combat (base not finished)</li>
   </ul>
 <ul>
