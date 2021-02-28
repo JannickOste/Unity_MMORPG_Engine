@@ -1,9 +1,7 @@
 <h1>Camelot RPG Base</h1>
+A simple project to explore the functionality in unity and improve my mathmatical skills.
 <br>
-<ul>
-  <li>A simple project to explore the functionality in unity and improve my mathmatical skills. </li>
-  <br>
-  <li>Features:</li>
+Features:
   <ul>
     <li>TCP/UDP network protocols</li>
     <li>HTTP login server</li>
@@ -15,4 +13,3 @@
     <li>UI System</li>
     <li>Combat (base not finished)</li>
   </ul>
-</ul>
