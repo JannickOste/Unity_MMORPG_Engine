@@ -1,5 +1,5 @@
 <h1>Camelot RPG Base</h1>
-A simple project to explore the functionality in unity and improve my mathmatical skills.
+A simple project to explore the functionality in unity and improve my mathmatical skills and networking knowledge.
 <br>
 Features:
   <ul>
